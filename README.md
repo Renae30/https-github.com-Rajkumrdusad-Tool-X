@@ -1,2 +1,2 @@
-# https-github.com-Rajkumrdusad-Tool-X
-https://github.com/Rajkumrdusad/Tool-X.git
+# https-github.com-Ragulsark-Tool-X
+https://github.com/ragulsark/Tool-X.git
